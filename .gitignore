@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+dist/
+coverage/
+.pytest_cache/
+*.db
+*.tsbuildinfo
+.docker-config-tmp/
+openspec/
